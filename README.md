@@ -4,12 +4,12 @@
 
 ### Features
 - Background color will change according to current speed of tempo
-- Two decks and TV widget to display animations
+- Four decks and TV widget to display animations
 
 ### Use
 - Use mouse to drag below half of window to control speed of rhythm
-- Use keyboard to control decks (`Q` for top-left, `W` for top-right, `A` for bottom-left, `S` for bottom-right)
-- Use keyboard to play keys (`D`, `F`, `G`, `H`, `J`, `K`, `L` for one full scale)
+- Use keyboard to control decks (`LEFT` for left-most, `UP` for left-medium, `DOWN` for right-medium, `RIGHT` for right-most)
+- Use keyboard to play keys (`A`, `S`, `D`, `F`, `G`, `H`, `J` for one full scale)
 
 ### License
 The MIT License (MIT)
